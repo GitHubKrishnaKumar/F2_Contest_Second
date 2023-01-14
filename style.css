@@ -1,0 +1,40 @@
+body{
+    background-color: #000;
+    color:#fff;
+}
+.main{
+    margin:0px 30px;
+    width:100%-60px;
+}
+
+.text-box{
+    display: inline-block;
+    width:33%;
+}
+.text-box > input{
+    width:90%;
+    height:24px;
+    font-size: 18px;
+    margin-top:10px;
+    background-color: #000;
+    color: white;
+    outline: 1px solid white;
+    border-radius: 5px;
+}
+#btn-submit{
+    background-color: #fff;
+    color: black;
+    font-size: 17px;
+    padding:5px 25px;
+    margin-top: 10px;
+}
+.hide{
+    display: none;
+    
+}
+.error{
+    margin-top: 20px;
+}
+#table{
+    width: 500px;
+}
